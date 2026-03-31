@@ -18,5 +18,4 @@ const createUserTable = async () => {
     }
 };
 
-createUserTable();
 export default createUserTable;
